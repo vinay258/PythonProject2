@@ -1,6 +1,5 @@
 from pages.filling_form import FormPage
 
-import logging
 
 
 # Setting up the form for submission
